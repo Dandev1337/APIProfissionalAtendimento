@@ -36,4 +36,4 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 Para mais informações, entre em contato com [Daniel Oliveira](devdan1337@gmail.com).
 
-**Link do Projeto:** [Link](https://github.com/Dandev1337/AtendimentoProfissionalAPI)
+**Link do Projeto:** [Link](https://github.com/Dandev1337/APIProfissionalAtendimento)
