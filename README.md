@@ -4,7 +4,7 @@ Este projeto consiste em uma API desenvolvida com Django para gerenciar a agenda
 
 ## Funcionalidades Principais
 
-- **Cadastro de Profissionais:** Os usuários podem cadastrar informações sobre profissionais, como nome, especialidade, horário de atendimento, entre outros.
+- **Cadastro de Profissionais:** Os usuários podem cadastrar informações sobre profissionais, como nome, especialidade, entre outros.
 - **Cadastro de Atendimentos:** Os usuários podem agendar atendimentos com profissionais cadastrados, fornecendo informações como data, hora, tipo de consulta, etc.
 - **Atualização e Exclusão de Dados:** Os usuários autorizados podem atualizar e excluir informações sobre profissionais e atendimentos.
 
